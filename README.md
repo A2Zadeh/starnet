@@ -1,4 +1,4 @@
 # starnet
 StarNet: Gradient-Free Generative Modeling
 
-Release scheduled for Feb 15th, 2021. 
+Release scheduled for April 15th, 2021. 
